@@ -1,0 +1,22 @@
+{
+  "name": "mean",
+  "version": "0.0.1",
+  "description": "MEAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikramTiwari/mean.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Vikram Tiwari <vikramtheone1@gmail.com> (http://vikramtiwari.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/VikramTiwari/mean/issues"
+  },
+  "homepage": "https://github.com/VikramTiwari/mean#readme"
+}
